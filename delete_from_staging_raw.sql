@@ -1,0 +1,1 @@
+DELETE FROM StagingRawTable WHERE platform_name = ? and date_scraped = ?;
